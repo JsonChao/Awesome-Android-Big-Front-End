@@ -22,7 +22,7 @@
 
 ### 二、Flutter（强烈推荐）
 
-#### Flutter入门
+#### Flutter入门（已完成）
 
 > 快速了解，培养热情与兴趣
 
@@ -37,7 +37,6 @@
 
 - [Flutter官方文档中文版](https://flutter.cn/docs/get-started/install)
 - [Build Native Mobile Apps with Flutter](https://classroom.udacity.com/courses/ud905/lessons/92a39eec-0c04-4d98-b47f-c884b9cd5a3b/concepts/78143d19-8360-4f83-88ab-cfcb5b160465)
-- [极客时间之《Flutter核心技术与实战》](https://time.geekbang.org/column/article/104040)
 - [Flutter实战](https://book.flutterchina.club/)
 - [GSYFlutterBook](https://guoshuyu.cn/home/wx/)
 
@@ -45,6 +44,7 @@
 #### Flutter进阶
 
 - [Flutter原理与实践](https://tech.meituan.com/2018/08/09/waimai-flutter-practice.html)
+- [极客时间之《Flutter核心技术与实战》](https://time.geekbang.org/column/article/104040)
 - [闲鱼Flutter系列](https://www.yuque.com/xytech/flutter)
 
 

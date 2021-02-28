@@ -41,7 +41,7 @@
 - [GSYFlutterBook](https://guoshuyu.cn/home/wx/)
 
 
-#### Flutter进阶
+#### Flutter进阶（进行中~）
 
 - [Flutter原理与实践](https://tech.meituan.com/2018/08/09/waimai-flutter-practice.html)
 - [极客时间之《Flutter核心技术与实战》](https://time.geekbang.org/column/article/104040)
